@@ -1,0 +1,4 @@
+test=테스트
+house=집
+school=학교
+python=파이썬
