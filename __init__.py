@@ -1,4 +1,5 @@
 import Dictionary
 
-Dictionary.read_from_dictionary()
-Dictionary.give_question()
+
+my_dictionary = Dictionary()
+my_dictionary.read_from_dictionary()

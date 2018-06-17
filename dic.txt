@@ -2,3 +2,6 @@ test=테스트
 house=집
 school=학교
 python=파이썬
+one=1
+two=2
+three=3
