@@ -49,7 +49,3 @@ class Dictionary:
 
 # Dictionary class 의 객체 my_dictionary
 my_dictionary = Dictionary()
-print("kr_list: ", my_dictionary.get_dictionary(1))
-print("en_list: ", my_dictionary.get_dictionary(2))
-
-
