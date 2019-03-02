@@ -8,9 +8,7 @@ class Dictionary:
 
     # __init__는 무조건 아래에 쓴 함수들을 실행시켜주는 class 의 기본 함수이다.
     def __init__(self):
-        print ('initialize dictionary')
-        #self.set_dictionary()
-        #self.read_from_dictionary()
+        print ('initialize Dictionary')
 
     def set_dictionary(self):
         # dic.txt open in a

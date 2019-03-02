@@ -3,10 +3,10 @@ from Question import *
 
 class Game:
     def __init__(self):
-        print('--- start game ---')
+        print('initialize Game')
 
     def play(self):
-        print('game.play')
+        print('--- start game ---')
         my_quest = Question()
 
         chance = 3
