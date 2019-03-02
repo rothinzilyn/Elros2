@@ -1,8 +1,4 @@
-import Dictionary
-import Question
+from Game import *
 
-
-my_dictionary = Dictionary()
-my_dictionary.read_from_dictionary()
-question_give = Question
-question_give.__init__()
+my_game = Game()
+my_game.play()
